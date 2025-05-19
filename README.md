@@ -16,13 +16,7 @@ A simple, elegant landing page for a travel guide app called **"Excursion"**, sh
 5. **Download call-to-action buttons.**
 6. **minimalist styling.**
    
-## How to Use 🚀
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/hidden-gems.git
-Here’s the refined **GitHub README.md** with proper credits to **Kulsoom Patwegar Ma'am** and a polished presentation:
-
----
+## How to Use 
 
 # **🌍 Hidden Gems Travel Guide**  
 *An elegant landing page for "Excursion" – showcasing undiscovered travel destinations.*  
@@ -32,13 +26,12 @@ Here’s the refined **GitHub README.md** with proper credits to **Kulsoom Patwe
 **🔗 Live Demo:** [Experience the Journey](https://theh1t3sh.github.io/CodeAcademyTaskByVinsysTeam/)  
 
 ---
+## **✨ Highlights** 
 
-## **✨ Key Features**  
-✔ **Immersive Hero Section** – Stunning video background loop  
-✔ **Mobile-First Design** – Responsive across all devices  
-✔ **Clean & Minimal UI** – Focused on user experience  
-✔ **Download Call-to-Action** – Prominent buttons for engagement  
-
+✔ ** Cinematic Video Background – Sets the wanderlust mood instantly** 
+✔ ** Pixel-Perfect Responsiveness – Flawless on any device** 
+✔ ** Conversion-Focused Design – Clear download CTAs** 
+✔ ** Lightweight & Fast – Optimized assets for quick loading** 
 ---
 
 ## **🚀 Quick Start**  
@@ -52,7 +45,9 @@ Here’s the refined **GitHub README.md** with proper credits to **Kulsoom Patwe
 
 ## **🙏 Acknowledgments**  
 - **Project Mentor:** Kulsoom Patwegar Ma'am  
-- **Organization:** Vinsys IT Services  
+- **Organization:**
+- Vinsys IT Services
+- Generation India
 - **Special Thanks:** Code Academy for the project brief  
 
 ---
@@ -69,10 +64,3 @@ Here’s the refined **GitHub README.md** with proper credits to **Kulsoom Patwe
 
 ---
 
-### **Key Improvements:**  
-- Clearly credits **Kulsoom Patwegar Ma'am** as the project mentor  
-- Professional yet engaging tone  
-- Organized sections with emojis for visual appeal  
-- Live demo link prominently placed  
-
-Let me know if you'd like any modifications! 😊
