@@ -24,7 +24,7 @@ Built With
 
     HTML5
     CSS3
-
+## 📂 Project Structure
 <pre>
 📂 CodeAcademyTaskByVinsysTeam/
 ├── 📄 index.html
