@@ -20,6 +20,34 @@
 5. **Download call-to-action buttons.**
 6. **minimalist styling.**
 
+Built With
+
+    HTML5
+    CSS3
+
+## 📂 Project Structure
+CodeAcademyTaskByVinsysTeam/
+├── index.html # Main landing page
+├── README.md # Project documentation
+├── Resource/
+│ ├── css/
+│ │ └── style.css # Main stylesheet
+│ ├── img/
+│ │ ├── campsimg.webp # Preview image
+│ │ └── (other assets) # Additional images
+│ └── video/ # Background video assets
+│ └── excursion.mp4
+├── assets/ # Alternative asset directory
+│ ├── fonts/ # Custom fonts (if any)
+│ └── icons/ # SVG/icons
+└── (optional tests/) # Test directory (if applicable)
+
+### Key Files Explained:
+- **index.html**: Core HTML structure
+- **style.css**: All styling rules (mobile-first approach)
+- **/img**: Contains WebP-optimized images
+- **/video**: Background video assets (MP4/WebM formats)
+
 ## **🚀 Quick Start**  
 1. Clone the repository:  
    ```bash  
@@ -30,7 +58,7 @@
 ---
 
 ## **🙏 Acknowledgments**  
-- **Project Mentor:** Kulsoom Patwegar Ma'am  
+- **Project Mentor:** Kulsoom Patwegar 
 - **Organization:**
   Vinsys IT Services
   Generation India
@@ -40,8 +68,6 @@
 
 ## **💡 Why This Project?**  
 > *"A perfect blend of aesthetic travel inspiration and clean code – ideal for modern landing pages."*  
-
-**Contribute?** Feel free to fork and submit PRs!  
 
 ---
 
