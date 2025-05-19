@@ -32,8 +32,8 @@
 ## **🙏 Acknowledgments**  
 - **Project Mentor:** Kulsoom Patwegar Ma'am  
 - **Organization:**
-- Vinsys IT Services
-- Generation India
+  Vinsys IT Services
+  Generation India
 - **Special Thanks:** Code Academy for the project brief  
 
 ---
