@@ -4,45 +4,19 @@ A simple, elegant landing page for a travel guide app called **"Excursion"**, sh
 
 ![Preview](./Resource/img/campsimg.webp)
 
----
-
-## 🎓 Certification Milestone  
-**Excited to share that I’ve completed the *"Learn the Command Line"* certification!**  
-This journey deepened my understanding of CLI tools and their pivotal role in development.  
-
-### Key Learnings:  
-- **Configuring CLI Environments**: Customized setups for productivity.  
-- **Windows Command Line Mastery**: Streamlined workflows with essential commands.  
-- **Real-World Project ("Attica")**: Applied skills in a practical scenario.  
-- **Environment Variables**: Managed dynamic settings for efficiency.  
-
-**Gratitude**:  
-A heartfelt thanks to [Generation India](https://india.generation.org/) and [Vinsys](https://www.vinsys.com/) for their supportive learning platform, and to my mentors **Sandhya Jadhav-Gaikwad Ma'am** and **Kulsoom Patwegar Ma'am** for their guidance.  
-
-*Ready to leverage these skills in projects like this one!*  
-
----
-
-## Features ✨  
-- Responsive design (works on desktop & mobile).  
-- Embedded video background.  
-- Clean, minimalist styling.  
-
-## How to Use 🚀  
-```bash
-# Clone the repository (CLI skills in action!)
-git clone https://github.com/yourusername/hidden-gems.git
-cd hidden-gems
-
-##file structure
-.
-├── index.html               # Main HTML file
-├── README.md                # This file
-└── Resource/
-    ├── img/
-    │   ├── campsimg.webp    # Camping image
-    │   ├── smartphone.png   # Phone icon
-    │   └── favicon-32x32.png
-    └── video/
-        └── excursion.mp4    # Background video
+## Key Website Features ✨
+1. **Dynamic Video Background**  
+   - Auto-playing muted video loop for visual appeal
+2. **Mobile-First Design**  
+   - Responsive layout tested on multiple devices
+3. **Clean UI Components**  
+   - Consistent typography and color scheme
+4. **Responsive design (works on desktop & mobile).**
+5. **Download call-to-action buttons.**
+6. **minimalist styling.**
+   
+## How to Use 🚀
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/hidden-gems.git
 
