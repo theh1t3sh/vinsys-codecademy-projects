@@ -25,23 +25,22 @@ Built With
     HTML5
     CSS3
 
-## 📂 Project Structure
-CodeAcademyTaskByVinsysTeam/
-├── index.html # Main landing page
-├── README.md # Project documentation
-├── Resource/
-│ ├── css/
-│ │ └── style.css # Main stylesheet
-│ ├── img/
-│ │ ├── campsimg.webp # Preview image
-│ │ └── (other assets) # Additional images
-│ └── video/ # Background video assets
-│ └── excursion.mp4
-├── assets/ # Alternative asset directory
-│ ├── fonts/ # Custom fonts (if any)
-│ └── icons/ # SVG/icons
-└── (optional tests/) # Test directory (if applicable)
-
+<pre>
+📂 CodeAcademyTaskByVinsysTeam/
+├── 📄 index.html
+├── 📄 README.md
+├── 📁 Resource/
+│   ├── 📁 css/
+│   │   └── 📄 style.css
+│   ├── 📁 img/
+│   │   ├── 📷 campsimg.webp
+│   │   └── 📷 (other assets)
+│   └── 📁 video/
+│       └── 🎥 excursion.mp4
+└── 📁 assets/
+    ├── 📁 fonts/
+    └── 📁 icons/
+</pre>
 ### Key Files Explained:
 - **index.html**: Core HTML structure
 - **style.css**: All styling rules (mobile-first approach)
