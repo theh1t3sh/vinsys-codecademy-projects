@@ -1,21 +1,3 @@
-Check out the project here: [CodeAcademy Task by Vinsys Team](https://theh1t3sh.github.io/CodeAcademyTaskByVinsysTeam/)
-
-# Hidden Gems Travel Guide 🌍
-A simple, elegant landing page for a travel guide app called **"Excursion"**, showcasing hidden travel destinations. Built with HTML and CSS.
-
-![Preview](./Resource/img/campsimg.webp)
-
-## Key Website Features ✨
-1. **Dynamic Video Background**  
-   - Auto-playing muted video loop for visual appeal
-2. **Mobile-First Design**  
-   - Responsive layout tested on multiple devices
-3. **Clean UI Components**  
-   - Consistent typography and color scheme
-4. **Responsive design (works on desktop & mobile).**
-5. **Download call-to-action buttons.**
-6. **minimalist styling.**
-   
 ## How to Use 
 
 # **🌍 Hidden Gems Travel Guide**  
@@ -28,11 +10,15 @@ A simple, elegant landing page for a travel guide app called **"Excursion"**, sh
 ---
 ## **✨ Highlights** 
 
-✔ ** Cinematic Video Background – Sets the wanderlust mood instantly** 
-✔ ** Pixel-Perfect Responsiveness – Flawless on any device** 
-✔ ** Conversion-Focused Design – Clear download CTAs** 
-✔ ** Lightweight & Fast – Optimized assets for quick loading** 
----
+1. **Dynamic Video Background**  
+   - Auto-playing muted video loop for visual appeal
+2. **Mobile-First Design**  
+   - Responsive layout tested on multiple devices
+3. **Clean UI Components**  
+   - Consistent typography and color scheme
+4. **Responsive design (works on desktop & mobile).**
+5. **Download call-to-action buttons.**
+6. **minimalist styling.**
 
 ## **🚀 Quick Start**  
 1. Clone the repository:  
