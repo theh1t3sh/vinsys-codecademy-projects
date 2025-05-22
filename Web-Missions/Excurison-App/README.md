@@ -7,8 +7,8 @@
 ![Preview](./Resource/img/campsimg.webp)  
 
 ## Live Demos
-- **Main Version**: [View index.html](https://theh1t3sh.github.io/CodeAcademyTaskByVinsysTeam/Web-Missions/Excursion-App/index.html)
-- **Alternate Version**: [View indexx.html](https://theh1t3sh.github.io/CodeAcademyTaskByVinsysTeam/Web-Missions/Excursion-App/index-v2.html)
+- **Main Version**: [View](https://theh1t3sh.github.io/Vinsys-Codecademy-Missions/Web-Missions/Excursion-App/index.html)
+- **Alternate Version**: [View](https://theh1t3sh.github.io/Vinsys-Codecademy-Missions/Web-Missions/Excursion-App/index-v2.html)
 
   ### Version Differences
 | File | Description |
