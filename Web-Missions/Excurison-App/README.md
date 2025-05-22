@@ -5,7 +5,7 @@
 **Developed as part of the Code Academy task assigned by Kulsoom Patwegar Ma'am.**  
 
 ![Preview](./Resource/img/campsimg.webp)  
-**🔗 Live Demo:** [Experience the Journey](https://theh1t3sh.github.io/CodeAcademyTaskByVinsysTeam/)  
+**🔗 Live Demo:** [Experience the Journey](https://theh1t3sh.github.io/CodeAcademyTaskByVinsysTeam//tree/main/Web-Missions/Excurison-App)  
 
 ---
 ## **✨ Highlights** 
