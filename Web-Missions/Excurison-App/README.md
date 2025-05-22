@@ -5,7 +5,16 @@
 **Developed as part of the Code Academy task assigned by Kulsoom Patwegar Ma'am.**  
 
 ![Preview](./Resource/img/campsimg.webp)  
-**🔗 Live Demo:** [Experience the Journey](https://theh1t3sh.github.io/CodeAcademyTaskByVinsysTeam//tree/main/Web-Missions/Excurison-App)  
+
+## Live Demos
+- **Main Version**: [View index.html](https://yourusername.github.io/CodeAcademyTaskByVinsysTeam/Web-Missions/Excursion-App/index.html)
+- **Alternate Version**: [View indexx.html](https://yourusername.github.io/CodeAcademyTaskByVinsysTeam/Web-Missions/Excursion-App/index-v2.html)
+
+  ### Version Differences
+| File | Description |
+|------|-------------|
+| [index.html]() | Original  version |
+| [index-v2.html]() | Experimental version |
 
 ---
 ## **✨ Highlights** 
