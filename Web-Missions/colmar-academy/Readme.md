@@ -1,6 +1,6 @@
 # 🎓 Colmar Academy - Responsive Educational Website
 
-![Colmar Academy Preview]([./Web-Missions/colmar-academy/index.html])
+![Colmar Academy Preview]([https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/colmar-academy/index.html])
 
 A fully responsive website for Colmar Academy featuring modern design principles and seamless mobile adaptation.
 
