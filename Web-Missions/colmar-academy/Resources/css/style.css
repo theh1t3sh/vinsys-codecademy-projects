@@ -43,6 +43,9 @@ header {
 }
 
 .logo .academy {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  color: #999999;
   color: #9b9b9b;
 }
 
