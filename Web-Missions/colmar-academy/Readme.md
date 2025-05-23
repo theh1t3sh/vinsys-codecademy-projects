@@ -1,6 +1,6 @@
 # 🎓 Colmar Academy - Responsive Educational Website
 
-![Colmar Academy Preview]([./Web-Missions/colmar-academy/colmar-academy-spec.png])
+![Colmar Academy Preview]([./Web-Missions/colmar-academy/index.html])
 
 A fully responsive website for Colmar Academy featuring modern design principles and seamless mobile adaptation.
 
