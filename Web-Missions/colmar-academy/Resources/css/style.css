@@ -7,6 +7,12 @@
 
 body {
   color: #4a4a4a;
+  background: 
+    radial-gradient(circle at top left, #05022a, transparent),
+    radial-gradient(circle at top right, #12001a, transparent),
+    radial-gradient(circle at bottom left, #1a0033, transparent),
+    radial-gradient(circle at bottom right, #2a1466, transparent);
+  background-blend-mode: screen;
 }
 
 /* Header Styles */
