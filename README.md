@@ -1,4 +1,4 @@
--**Colmar Academy Preview**: (https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/colmar-academy/index.html)
+- **Colmar Academy Preview**: (https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/colmar-academy/index.html)
 - **Excurison-App Main Version**: [View](https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/Excurison-App/index.html)
 - **Excurison-App Alternate Version**: [View](https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/Excurison-App/index-v2.html)
 - **Dasmoto-Arts-and-Crafts **: [View](https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/Dasmoto-Arts-and-Crafts/index.html)
