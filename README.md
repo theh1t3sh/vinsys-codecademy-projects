@@ -2,5 +2,4 @@
 - **Excurison-App Main Version**: [View](https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/Excurison-App/index.html)
 - **Excurison-App Alternate Version**: [View](https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/Excurison-App/index-v2.html)
 - **Dasmoto-Arts-and-Crafts **: [View](https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/Dasmoto-Arts-and-Crafts/index.html)
-- portfolio: [view](https://github.com/theh1t3sh/vinsys-codecademy-missions/blob/main/Web-Missions/portfolio-responsive-complete-main/portfolio-responsive-complete-main/index.html)
 - portfolio1: [view](https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-Missions/portfolio-responsive-complete-main/index.html)
