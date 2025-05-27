@@ -1,9 +1,3 @@
-// package com.SMAPI.StudentManagementAPI.model;
-
-// public class SMAModel {
-
-// }
-
 package com.SMAPI.StudentManagementAPI.model;
 
 import jakarta.persistence.Column;
@@ -30,7 +24,7 @@ public class SMAModel {
     @Column(nullable = false)
     private String course;
 
-    // Constructors, Getters, and Setters
+    // Constructors,..--- getters--- and---- setters
     public SMAModel() {
     }
 
@@ -40,7 +34,7 @@ public class SMAModel {
         this.course = course;
     }
 
-    // Getters and setters for all fields
+    // for all fields
     public Long getId() {
         return id;
     }
