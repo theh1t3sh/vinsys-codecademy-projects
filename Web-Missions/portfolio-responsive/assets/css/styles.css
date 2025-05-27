@@ -14,8 +14,8 @@
   --body-font: "Poppins", sans-serif;
   --big-font-size: 2rem;
   --h2-font-size: 1.25rem;
-  --normal-font-size: .938rem;
-  --smaller-font-size: .75rem;
+  --normal-font-size: 0.938rem;
+  --smaller-font-size: 0.75rem;
   /*===== Margenes =====*/
   --mb-2: 1rem;
   --mb-4: 2rem;
@@ -30,12 +30,14 @@
     --big-font-size: 3.5rem;
     --h2-font-size: 2rem;
     --normal-font-size: 1rem;
-    --smaller-font-size: .875rem;
+    --smaller-font-size: 0.875rem;
   }
 }
 
 /*===== BASE =====*/
-*, ::before, ::after {
+*,
+::before,
+::after {
   box-sizing: border-box;
 }
 
@@ -50,7 +52,9 @@ body {
   color: var(--second-color);
 }
 
-h1, h2, p {
+h1,
+h2,
+p {
   margin: 0;
 }
 
@@ -322,8 +326,192 @@ img {
   transform: scale(1.1);
 }
 
-/* ===== CONTACT =====*/
+/* ===== CONTACT SECTION ===== */
+.contact__container {
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 2rem;
+  align-items: center;
+}
+
+.contact__info {
+  padding: 1.5rem;
+}
+
+.contact__subtitle {
+  font-size: var(--h3-font-size);
+  color: var(--first-color);
+  margin-bottom: 1rem;
+}
+
+.contact__text {
+  margin-bottom: 2rem;
+  color: var(--text-color);
+}
+
+.contact__details {
+  margin-bottom: 2rem;
+}
+
+.contact__detail {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.contact__detail i {
+  font-size: 1.5rem;
+  color: var(--first-color);
+  margin-right: 1rem;
+}
+
+.contact__social {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.contact__social-link {
+  font-size: 1.5rem;
+  color: var(--first-color);
+  transition: 0.3s;
+}
+
+.contact__social-link:hover {
+  color: var(--first-color-alt);
+  transform: translateY(-3px);
+}
+
+.contact__form {
+  padding: 1.5rem;
+}
+
 .contact__input {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 2px solid var(--first-color-light);
+  border-radius: 0.5rem;
+  outline: none;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  transition: 0.3s;
+}
+
+.contact__input:focus {
+  border-color: var(--first-color);
+}
+
+.contact__button {
+  cursor: pointer;
+  border: none;
+}
+
+textarea.contact__input {
+  resize: vertical;
+  min-height: 120px;
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .contact__container {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+}
+
+/* ===== CONTACT-info SECTION ===== */
+.contact-info__container {
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 2rem;
+  align-items: center;
+}
+
+.contact-info__info {
+  padding: 1.5rem;
+}
+
+.contact-info__subtitle {
+  font-size: var(--h3-font-size);
+  color: var(--first-color);
+  margin-bottom: 1rem;
+}
+
+.contact-info__text {
+  margin-bottom: 2rem;
+  color: var(--text-color);
+}
+
+.contact-info__details {
+  margin-bottom: 2rem;
+}
+
+.contact-info__detail {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.contact-info__detail i {
+  font-size: 1.5rem;
+  color: var(--first-color);
+  margin-right: 1rem;
+}
+
+.contact-info__social {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.contact-info__social-link {
+  font-size: 1.5rem;
+  color: var(--first-color);
+  transition: 0.3s;
+}
+
+.contact-info__social-link:hover {
+  color: var(--first-color-alt);
+  transform: translateY(-3px);
+}
+
+.contact-info__form {
+  padding: 1.5rem;
+}
+
+.contact-info__input {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 2px solid var(--first-color-light);
+  border-radius: 0.5rem;
+  outline: none;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  transition: 0.3s;
+}
+
+.contact-info__input:focus {
+  border-color: var(--first-color);
+}
+
+.contact-info__button {
+  cursor: pointer;
+  border: none;
+}
+
+textarea.contact-info__input {
+  resize: vertical;
+  min-height: 120px;
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .contact-info__container {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+}
+
+/* ===== CONTACT =====*/
+/* .contact__input {
   width: 100%;
   font-size: var(--normal-font-size);
   font-weight: var(--font-semi);
@@ -340,7 +528,7 @@ img {
   font-size: var(--normal-font-size);
   cursor: pointer;
   margin-left: auto;
-}
+} */
 
 /* ===== FOOTER =====*/
 .footer {

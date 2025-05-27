@@ -1,0 +1,33 @@
+.home__img {
+  position: absolute;
+  right: -80px; /* Push it further out */
+  bottom: 0;
+  width: 200px; /* Smaller image size */
+  z-index: 0; /* Put it behind other elements */
+}
+
+.home__blob-img {
+  width: 280px; /* Optional: Shrink the SVG itself */
+}
+
+.home__content {
+  position: relative;
+  z-index: 1; /* Ensure content stays on top */
+}
+@media screen and (max-width: 768px) {
+  .home__img {
+    display: none;
+  }
+}
+.home__img {
+  position: absolute;
+  right: -100px; /* Adjust value as needed */
+  bottom: 0;
+  width: 220px; /* Optionally reduce width */
+  z-index: 0; /* Keeps it behind text */
+}
+.home__blob-img {
+  width: 280px; /* Or reduce this */
+  transform: scale(0.8); /* Shrinks blob size */
+}
+<g mask="url(#mask0)" transform="translate(0, 0)">
