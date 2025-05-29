@@ -1,0 +1,46 @@
+body {
+  background-color: #f0f0f0;
+  background: radial-gradient(circle at top left, #fff59b, transparent),
+    radial-gradient(circle at top right, #a7e9b4, transparent),
+    radial-gradient(circle at bottom left, #5700ff, transparent),
+    radial-gradient(circle at bottom right, #4edccd, transparent);
+  background-blend-mode: screen;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+p {
+  font-family: "Helvetica", sans-serif;
+}
+h1 {
+  font: 5em;
+  font-size: 100px;
+  color: #fffd74;
+  text-align: center;
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+  padding: 50px;
+}
+
+.product h2 {
+  color: rgb(235, 235, 239);
+  font-weight: bold;
+  font-size: 2em;
+  padding: 20px;
+}
+
+.price {
+  color: #551fbb;
+  font-weight: bold;
+}
+
+#frame {
+  background-color: #6f7617;
+}
+#brushes {
+  background-color: #4caf50;
+}
+#paint {
+  background-color: #f44336;
+}
