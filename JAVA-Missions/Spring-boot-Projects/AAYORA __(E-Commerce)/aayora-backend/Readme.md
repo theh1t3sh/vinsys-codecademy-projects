@@ -39,20 +39,20 @@ Before running the application, make sure you have MySQL installed and a databas
    CREATE DATABASE aayora_db;
 
 
-#Configure application.properties (in src/main/resources/) like this:
-**Properties**
-spring.datasource.url=jdbc:mysql://localhost:3306/aayora_db
-spring.datasource.username=your_mysql_username
-spring.datasource.password=your_mysql_password
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+## Configure application.properties (in src/main/resources/) like this:
+###Properties      
 
-**🧪 Testing "AAYORA the Fashion" Spring Boot REST APIs**
+         spring.datasource.url=jdbc:mysql://localhost:3306/aayora_db
+         spring.datasource.username=your_mysql_username
+         spring.datasource.password=your_mysql_password
+         spring.jpa.hibernate.ddl-auto=update
+         spring.jpa.show-sql=true
+         spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
+##🧪 Testing "AAYORA the Fashion" Spring Boot REST APIs
 There are several ways to test your ItemController APIs. Below are the most common methods:
-✅ 1. Using Postman (Recommended for manual testing)
-🧰 Steps to Test with Postman:
+###✅ 1. Using Postman (Recommended for manual testing)
+####🧰 Steps to Test with Postman:
 
     Install Postman: https://www.postman.com/downloads/
 
@@ -102,7 +102,7 @@ There are several ways to test your ItemController APIs. Below are the most comm
 
     POST http://localhost:8080/api/items/1
 
-**🧑‍💻 2. Using cURL (Command Line)**
+##🧑‍💻 2. Using cURL (Command Line)
 
 You can test the endpoints directly from your terminal:
 🔍 GET All Items
@@ -129,7 +129,7 @@ You can test the endpoints directly from your terminal:
 
     curl -X DELETE http://localhost:8080/api/items/1
 
-**🗂️ Folder Structure**
+##🗂️ Folder Structure
 src/
 ├── main/
 │   ├── java/
