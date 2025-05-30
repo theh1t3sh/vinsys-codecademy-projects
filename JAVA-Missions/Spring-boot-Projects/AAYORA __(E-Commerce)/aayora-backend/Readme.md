@@ -130,6 +130,7 @@ You can test the endpoints directly from your terminal:
     curl -X DELETE http://localhost:8080/api/items/1
 
 ## 🗂️ Folder Structure
+<pre>
 src/
 ├── main/
 │   ├── java/
@@ -142,7 +143,9 @@ src/
 │   └── resources/
 │       ├── application.properties
 │       └── static/
-└── test/
+└── test/ </pre>
+
+<pre> ``` 📁 Folder Structure src/ ├── main/ │ ├── java/ │ │ └── com/example/aayora/ │ │ ├── controller/ │ │ ├── model/ │ │ ├── repository/ │ │ ├── service/ │ │ └── AayoraApplication.java │ └── resources/ │ ├── application.properties │ └── static/ └── test/ ``` </pre>
 
 ## 👩‍💻 Author
 
