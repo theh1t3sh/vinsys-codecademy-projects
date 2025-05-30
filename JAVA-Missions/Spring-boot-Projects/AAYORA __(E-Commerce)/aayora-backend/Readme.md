@@ -56,7 +56,7 @@ There are several ways to test your ItemController APIs. Below are the most comm
 
     Install Postman: https://www.postman.com/downloads/
 
-    Start your Spring Boot application
+▶️ Start your Spring Boot application
 
     Use the following requests:
 
