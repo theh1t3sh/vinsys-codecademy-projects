@@ -145,8 +145,6 @@ src/
 │       └── static/
 └── test/ </pre>
 
-<pre> ``` 📁 Folder Structure src/ ├── main/ │ ├── java/ │ │ └── com/example/aayora/ │ │ ├── controller/ │ │ ├── model/ │ │ ├── repository/ │ │ ├── service/ │ │ └── AayoraApplication.java │ └── resources/ │ ├── application.properties │ └── static/ └── test/ ``` </pre>
-
 ## 👩‍💻 Author
 
 Developed by **Hitesh Sharma** as part of the final project for the Spring Boot course.
