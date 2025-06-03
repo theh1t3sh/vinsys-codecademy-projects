@@ -1,0 +1,78 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <title>Login</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&amp;display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Roboto", sans-serif;
+      }
+    </style>
+  </head>
+  <body class="bg-[#f1f3f6] min-h-screen flex items-center justify-center p-4">
+    <div class="bg-white max-w-5xl w-full flex flex-col md:flex-row shadow-md">
+      <div
+        class="bg-[#2874f0] flex flex-col justify-between p-8 md:w-1/3 text-white"
+      >
+        <div>
+          <h1 class="text-3xl font-bold mb-4">Login</h1>
+          <p class="text-lg leading-relaxed">
+            Get access to your Orders,
+            <br />
+            Wishlist and Recommendations
+          </p>
+        </div>
+        <img
+          alt=" laptop and boxes with cloud and sun on blue background"
+          class="mt-8 w-full max-w-[250px] self-center"
+          height="150"
+          src="./img/laptop.png"
+          width="250"
+        />
+      </div>
+      <div class="flex flex-col justify-between p-8 md:w-2/3">
+        <form class="flex flex-col">
+          <input
+            class="border-b border-[#2874f0] focus:outline-none text-gray-600 placeholder-gray-400 pb-2 mb-8"
+            placeholder="Enter Email/Mobile number"
+            type="text"
+          />
+          <p class="text-xs text-gray-500 mb-6">
+            By continuing, you agree to Flipkart's
+            <a class="text-[#2874f0] hover:underline" href="#">
+              Terms of Use
+            </a>
+            and
+            <a class="text-[#2874f0] hover:underline" href="#">
+              Privacy Policy
+            </a>
+            .
+          </p>
+          <button
+            class="bg-[#fb641b] text-white font-semibold py-3 rounded shadow-md hover:bg-[#e55300] transition-colors"
+            type="submit"
+          >
+            Request OTP
+          </button>
+        </form>
+        <div class="text-center mt-32">
+          <a
+            class="text-[#2874f0] font-semibold text-sm hover:underline"
+            href="#"
+          >
+            New to Flipkart? Create an account
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
