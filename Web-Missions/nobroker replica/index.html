@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NoBroker - World's Largest NoBrokerage Property Site</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f5f5;
+      }
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px 30px;
+        background-color: #ffffff;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+      .logo {
+        height: 35px;
+      }
+      .nav-links a {
+        margin-left: 20px;
+        text-decoration: none;
+        color: #333;
+        font-weight: bold;
+      }
+      .highlight {
+        background-color: #00b894;
+        color: white;
+        padding: 8px 12px;
+        border-radius: 5px;
+      }
+      .main {
+        text-align: center;
+        padding: 60px 20px;
+      }
+      .main h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+        color: #333;
+      }
+      .features {
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        margin: 30px 0;
+      }
+      .features div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .features img {
+        width: 40px;
+        margin-bottom: 10px;
+      }
+      .search-section {
+        background-color: #ffffff;
+        padding: 25px;
+        border-radius: 12px;
+        display: inline-block;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+      }
+      .search-section button,
+      .search-section select,
+      .search-section input[type="text"] {
+        padding: 10px;
+        margin: 8px 5px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+      }
+      .search-section button {
+        background-color: #ff5a5f;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      .post-ad {
+        margin-top: 40px;
+      }
+      .post-ad button {
+        background-color: #00b894;
+        color: white;
+        border: none;
+        padding: 12px 24px;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="nobroker-logo.jpg" alt="NoBroker Logo" class="logo" />
+      <div class="nav-links">
+        <a href="#">Pay Rent</a>
+        <a href="#" class="highlight">For Property Owners</a>
+        <a href="#">Sign up</a>
+        <a href="#">Log in</a>
+        <a href="#">Menu</a>
+      </div>
+    </header>
+    <div class="main">
+      <h1>World's Largest NoBrokerage Property Site</h1>
+      <div class="features">
+        <div>
+          <img src="./Resources/img/sofa lamp.jpg" alt="Home Interiors" />
+          <span>Home Interiors</span>
+        </div>
+        <div>
+          <img src="key on hand.jpg" alt="45-Days Guarantee" />
+          <span>45-Days Guarantee</span>
+        </div>
+        <div>
+          <img src="rupee.jpg" alt="Rental Payments" />
+          <span>Rental Payments</span>
+        </div>
+        <div>
+          <img src="credit card.png" alt="Zero Brokerage" />
+          <span>Zero Brokerage</span>
+        </div>
+      </div>
+      <div class="search-section">
+        <div>
+          <button>Buy</button>
+          <button>Rent</button>
+          <button>Commercial</button>
+        </div>
+        <div>
+          <select aria-label="Select City">
+            <option>Bangalore</option>
+          </select>
+          <input
+            type="text"
+            placeholder="Search up to 3 localities or landmarks"
+          />
+          <select aria-label="Property Type">
+            <option>Full House</option>
+            <option>Land/Plot</option>
+          </select>
+          <select aria-label="BHK Type">
+            <option>BHK Type</option>
+          </select>
+          <select aria-label="Property Status">
+            <option>Property Status</option>
+          </select>
+          <label><input type="checkbox" /> New Builder Projects</label>
+          <button>Search</button>
+        </div>
+      </div>
+      <div class="post-ad">
+        <p><strong>Are you a Property Owner?</strong></p>
+        <button>Post Free Property Ad</button>
+      </div>
+    </div>
+  </body>
+</html>
