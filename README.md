@@ -5,5 +5,6 @@
 - **portfolio1:** [view](https://theh1t3sh.github.io/vinsys-codecademy-missions/Web-projects/portfolio-responsive/)
 - **Flipkart:** [view](https://theh1t3sh.github.io/vinsys-codecademy-projects/Web-Missions/flipkart/)
 - **Guess the number:** [view](https://theh1t3sh.github.io/vinsys-codecademy-projects/Web-Missions/GuessTheNumber/index.html)
+-**Guess the number:** [view](https://theh1t3sh.github.io/vinsys-codecademy-projects/Web-Missions/GuessTheNumber/index2.html)
 
 _Note: To open in a new tab, right-click or ctrl/cmd+click the link._
